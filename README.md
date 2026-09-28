@@ -1,18 +1,18 @@
 # Personal Task Manager
 
-## Project Code
+# Project Code
 WST21-PM-2026-SF
 
-## Student Name
+# Student Name
 Your Name
 
-## Course & Year
+# Course & Year
 BSIT 2nd Year
 
-## Database Used
+# Database Used
 MySQL
 
-## Features
+# Features
 - Add Task
 - View Tasks
 - Edit Task
