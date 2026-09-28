@@ -4,7 +4,7 @@
 WST21-PM-2026-SF
 
 # Student Name
-Your Name
+BENIGRA, JAKE A.
 
 # Course & Year
 BSIT 2nd Year
